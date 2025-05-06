@@ -15,7 +15,7 @@
         "Path": "server.jar"
       },
       {
-        "Uri": "https://raw.githubusercontent.com/skyportlabs/images_v2/main/spigotmc/server.properties",
+        "Uri": "https://raw.githubusercontent.com/Duck1405/skyport-images/main/spigotmc/server.properties",
         "Path": "server.properties"
       }
     ]
@@ -29,7 +29,7 @@
   },
   "Name": "Minecraft Java: SpigotMC",
   "Description": "SpigotMC is a high-performance, open-source server software for Minecraft, designed to enhance and optimize the game's multiplayer experience. It offers extensive configuration options, a vibrant plugin ecosystem, and active community support, making it a popular choice for server administrators seeking to improve gameplay and server performance.",
-  "Author": "info@skyport.dev",
+  "Author": "info@iampro.rayan",
   "AuthorName": "Skyport Labs",
   "Meta": {
     "Version": "Skyport Images v2"
