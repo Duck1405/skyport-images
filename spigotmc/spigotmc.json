@@ -1,5 +1,5 @@
 {
-  "Image": "quay.io/skyport/java:21",
+  "Image": "quay.io/rd105291/java",
   "AltImages": [
     "quay.io/skyport/java:21",
     "quay.io/skyport/java:17"
