@@ -11,7 +11,7 @@
   "Scripts": {
     "Install": [
       {
-        "Uri": "https://download.getbukkit.org/spigot/spigot-{{Version}}.jar",
+        "Uri": "https://api.papermc.io/v2/projects/paper/versions/{{Version}}/builds/{{BUILD}}/downloads/paper-{{Version}}-{{BUILD}}.jar",
         "Path": "server.jar"
       },
       {
@@ -21,13 +21,20 @@
     ]
   },
   "Variables": {
-    "Version": {
+    "VERSION": {
       "type": "text",
-      "default": "1.21",
+      "default": "1.21.1",
+      "required": true
+    },
+
+    "BUILD": {
+      "type": "number",
+      "default": "89",
       "required": true
     }
+    
   },
-  "Name": "Minecraft Java: SpigotMC",
+  "Name": "Minecraft Java: papermc",
   "Description": "SpigotMC is a high-performance, open-source server software for Minecraft, designed to enhance and optimize the game's multiplayer experience. It offers extensive configuration options, a vibrant plugin ecosystem, and active community support, making it a popular choice for server administrators seeking to improve gameplay and server performance.",
   "Author": "info@iampro.rayan",
   "AuthorName": "Skyport Labs",
