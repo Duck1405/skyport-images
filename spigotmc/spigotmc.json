@@ -1,7 +1,7 @@
 {
-  "Image": "quay.io/rd105291/java:latest",
+  "Image": "ghcr.io/airlinklabs/java:21",
   "AltImages": [
-    "quay.io/rd105291/java:latest",
+    "ghcr.io/airlinklabs/java:21",
     "quay.io/rd105291/java:latest"
   ],
   "Cmd": "",
