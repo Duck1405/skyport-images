@@ -26,13 +26,11 @@
       "default": "1.21.1",
       "required": true
     },
-
     "BUILD": {
       "type": "number",
       "default": "89",
       "required": true
     }
-    
   },
   "Name": "Minecraft Java: papermc",
   "Description": "SpigotMC is a high-performance, open-source server software for Minecraft, designed to enhance and optimize the game's multiplayer experience. It offers extensive configuration options, a vibrant plugin ecosystem, and active community support, making it a popular choice for server administrators seeking to improve gameplay and server performance.",
